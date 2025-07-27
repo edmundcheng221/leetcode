@@ -1,3 +1,3 @@
 ## Leetcode
 
-Collection of my leedcode solutions.
+Collection of my leetcode solutions.
